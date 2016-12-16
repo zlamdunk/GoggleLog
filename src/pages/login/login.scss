@@ -1,3 +1,12 @@
 page-login {
-
+  .scroll-bg{
+    background: url(http://lorempixel.com/450/800/) no-repeat center center fixed;
+    background-size: cover;
+  }
+  .scroll-content{
+       overflow-y: hidden;
+  }
+  ion-menu .toolbar-background {
+	background: #f53d3d;
+  }
 }
